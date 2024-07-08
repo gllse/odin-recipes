@@ -1,7 +1,10 @@
 # odin-recipes
 
-Begin work on recipe website, added index.html
+240708
+- Begin work on recipe website
 
-Skills I have learned and worked upon in this assignment:
+
+Skills I have learned and worked upon in this assignment
 - basic HTML
 - basic Git commits
+
